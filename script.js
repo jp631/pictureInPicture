@@ -22,8 +22,6 @@ button.addEventListener("click", async () => {
     //Reset Button
     button.disabled  = false;
 });
-selectMediaStream();
-
 
 
 // API //
